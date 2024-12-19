@@ -1,0 +1,14 @@
+
+**Employee Login Details** 
+
+Username: logan
+Password: password
+
+Username: christine
+Password: password
+
+
+**Admin Login Details**
+
+Username: admin
+Password: @admin
